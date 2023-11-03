@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps">
+    <a href="https://legacy.devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps">
       Challenge
     </a>
   </h3>
@@ -17,24 +17,24 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Useful Resources](#useful-resources)
 
 ## Overview
 
 ![](jobs-app-challenge.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+***
 
 ### Built With
 
+- [Create React App](https://github.com/facebook/create-react-app)
 - [React](https://reactjs.org/)
 - [GraphQL Jobs](https://graphql.jobs/docs/api/)
 - [Apollo Client](https://www.apollographql.com/docs/react/)
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the given user stories.
 
 ## Thoughts
 
